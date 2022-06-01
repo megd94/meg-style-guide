@@ -1,0 +1,194 @@
+body {
+   box-sizing: border-box;
+   font-family: "Montserrat", sans-serif;
+}
+h1 {
+    text-align: center;
+}
+
+ .colours {
+    width: 50%;
+    border: 1px black solid;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.colour-container {
+    width: 100%;
+
+}
+
+.colour-blue {
+background-color: #2874A6 ;
+display: inline-block;
+width: 30%; 
+margin: 10px auto;
+}
+.colour-blue p {
+    text-align: center;
+    color: white;
+}
+
+.colour-pink {
+    background-color: #F06292;
+    display: inline-block;
+    width: 30%; 
+    margin: 10px auto;
+}
+.colour-pink p {
+    text-align: center;
+    color: white;
+}
+
+.colour-green {
+    background-color:  #A9DFBF;
+    display: inline-block;
+    width: 30%; 
+    margin: 10px auto;
+}
+.colour-green p {
+    text-align: center;
+    color: white;
+}
+
+.colour-yellow {
+    background-color: #F7DC6F;
+    display: inline-block;
+    width: 30%; 
+    margin: auto;
+}
+.colour-yellow p {
+    text-align: center;
+    color: black;
+}
+
+.fonts {
+    width: 50%;
+    border: 1px black solid;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+    padding: 10px
+}
+
+.font-title-raleway, .font-title-montserrat, .font-title-merriweather {
+    text-decoration: underline;
+}
+
+.font-title-raleway {
+    font-family: 'raleway', sans-serif;
+}
+
+.font-title-merriweather {
+    font-family: 'Merriweather', sans-serif;
+}
+
+.thin-100-raleway {
+    font-family: 'raleway', sans-serif;
+    font-weight: 100px;
+    font-style: italic;
+}
+
+.regular-400-raleway {
+    font-family: 'raleway', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.medium-500-raleway {
+    font-family: 'raleway', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.thin-100-montserrat {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+}
+
+.regular-400-montserrat {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+}
+
+.regular-400-italic-montserrat {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400; 
+    font-style: italic;
+}
+
+.light-300-merriweather {
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+}
+
+.regular-400-merriweather {
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+}
+
+.regular-400-italic-merriweather {
+    font-family: 'Merriweather', serif;
+    font-weight: 400; 
+    font-style: italic;
+}
+
+.text-styles {
+    width: 50%;
+    border: 1px black solid;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.text-panel {
+    display: block;
+    padding: 10px;
+}
+
+.text-style-container ul {
+    list-style: disc;
+}
+
+.header1-panel {
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family: 'raleway', sans-serif'
+}
+
+.header2-panel {
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.paragraph-panel {
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: 'Merriweather', serif;
+}
+
+
+.text-panel h2 {
+    font-size: 1.1em;
+}
+
+.text-panel h1 {
+    text-align: left;;
+}
